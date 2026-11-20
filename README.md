@@ -3,14 +3,14 @@
 <h1 align="center"></h1>
 
 ```
-  /\___/\                                                                                                    /\___/\
- (  o o  )   ███╗   ███╗███████╗ ██████╗ ██╗    ██╗██╗    ██╗██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗   ██╗   (  o o  )
-  \  ^  /    ████╗ ████║██╔════╝██╔═══██╗██║    ██║██║    ██║██║  ██║██║██╔════╝██║ ██╔╝██╔════╝╚██╗ ██╔╝    \  ^  /
-   )   (     ██╔████╔██║█████╗  ██║   ██║██║ █╗ ██║██║ █╗ ██║███████║██║███████╗█████╔╝ █████╗   ╚████╔╝      )   (
-  (     )    ██║╚██╔╝██║██╔══╝  ██║   ██║██║███╗██║██║███╗██║██╔══██║██║╚════██║██╔═██╗ ██╔══╝    ╚██╔╝      (     )
-   "" ""     ██║ ╚═╝ ██║███████╗╚██████╔╝╚███╔███╔╝╚███╔███╔╝██║  ██║██║███████║██║  ██╗███████╗   ██║        "" ""
-             ╚═╝     ╚═╝╚══════╝ ╚═════╝  ╚══╝╚══╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
-                                    >> welcome to the tech haven // est. whenever <<
+ /\___/\                                                                                                    /\___/\
+(  o o  )   ███╗   ███╗███████╗ ██████╗ ██╗    ██╗██╗    ██╗██╗  ██╗██╗███████╗██╗  ██╗███████╗██╗   ██╗   (  o o  )
+ \  ^  /    ████╗ ████║██╔════╝██╔═══██╗██║    ██║██║    ██║██║  ██║██║██╔════╝██║ ██╔╝██╔════╝╚██╗ ██╔╝    \  ^  /
+  )   (     ██╔████╔██║█████╗  ██║   ██║██║ █╗ ██║██║ █╗ ██║███████║██║███████╗█████╔╝ █████╗   ╚████╔╝      )   (
+ (     )    ██║╚██╔╝██║██╔══╝  ██║   ██║██║███╗██║██║███╗██║██╔══██║██║╚════██║██╔═██╗ ██╔══╝    ╚██╔╝      (     )
+  "" ""     ██║ ╚═╝ ██║███████╗╚██████╔╝╚███╔███╔╝╚███╔███╔╝██║  ██║██║███████║██║  ██╗███████╗   ██║        "" ""
+            ╚═╝     ╚═╝╚══════╝ ╚═════╝  ╚══╝╚══╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
+                                >> welcome to the tech haven // est. whenever <<                                          
 ```
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a B.Tech Computer Science (Data Science) student at **Bennett University** (2025 – 2029), passionate about **finance and research**. I build across full-stack development, data science, machine learning and blockchain, and pair that with leadership, outreach and growth marketing.
+I'm a B.Tech CSE (Data Science) student at **Bennett University** (2025 – 2029), passionate about **finance and research**. I build across full-stack development, data science, machine learning and blockchain, and pair that with leadership, outreach and growth marketing.
 
 - 💰 Head of Finance at the **Sports Committee, Bennett University**
 - 🎯 Head of Department, PR & Outreach + Sponsorships at **Enactus Bennett University**
@@ -64,7 +64,7 @@ I'm a B.Tech Computer Science (Data Science) student at **Bennett University** (
 
 ---
 
-## Experience
+## Stuff I did at Uni because I can't have my feet in one place
 
 - **Enactus Bennett University**: Head of Department, PR & Outreach + Sponsorships (Apr 2026 – Present); Junior Core Member (Sep 2025 – Apr 2026)
 - **Sports Committee, Bennett University**: Head of Finance (Jul 2026 – Present); Board Member (Nov 2025 – Jun 2026)
